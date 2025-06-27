@@ -1,6 +1,4 @@
-# 👨‍💻 Iniciando em Análise e Desenvolvimento de Sistemas (ADS)
-
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**, e este espaço no GitHub é dedicado à minha jornada de aprendizado, prática e evolução como desenvolvedor.
+# 👨‍💻 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**, e este espaço no GitHub é dedicado à minha jornada de aprendizado, prática e evolução como desenvolvedor.
 
 ---
 
